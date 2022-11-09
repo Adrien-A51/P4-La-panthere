@@ -681,7 +681,7 @@ li {
 }
 
 p {
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -708,6 +708,10 @@ p {
     margin: auto auto auto auto;
 }
 
+h1 {
+    color: #333333!important;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
@@ -717,6 +721,10 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
+    color: #333333!important;
+}
+
+h4 {
     color: #333333!important;
 }
 
