@@ -783,7 +783,11 @@ h4 {
 }
 
 .tc-orange {
-    color: #F3976C!important;
+    color: black;
+    font-weight: bold;
+    background-color: #F3976C;
+    width: 500px;
+    margin: auto;
 }
 
 .btn-atomic-tangerine {
